@@ -32,12 +32,12 @@
       "correct": 0
     },
     {
-      "q": "¿Qué órgano municipal aprueba la estructura de la Administración ejecutiva en los términos establecidos por las normas?",
+      "q": "¿A quién corresponde establecer la organización y estructura de la Administración municipal ejecutiva, respetando las normas orgánicas aprobadas por el Pleno?",
       "options": [
-        "La Junta de Gobierno",
-        "El Tribunal de Cuentas",
-        "La Junta Electoral",
-        "El Senado"
+        "Al Alcalde",
+        "Al Tribunal de Cuentas",
+        "A la Junta Electoral",
+        "Al Senado"
       ],
       "correct": 0
     },
@@ -62,9 +62,9 @@
       "correct": 0
     },
     {
-      "q": "¿Qué órgano directivo presta apoyo y coordinación administrativa dentro de un Área?",
+      "q": "¿Qué órgano directivo puede coordinar varias Direcciones Generales dentro de un Área de Gobierno?",
       "options": [
-        "La Coordinación General o el órgano directivo que establezca la organización",
+        "La Coordinación General",
         "La Junta Electoral Central",
         "La Cámara de Cuentas",
         "La Diputación"

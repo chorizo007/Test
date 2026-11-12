@@ -55,8 +55,8 @@
       "q": "La iniciativa autonómica del artículo 143 requiere el acuerdo de las Diputaciones y de:",
       "options": [
         "La mitad de los municipios",
-        "Las dos terceras partes de los municipios, con los requisitos de población previstos",
-        "Las tres cuartas partes de los municipios",
+        "Dos tercios de los municipios cuya población represente al menos la mayoría del censo electoral de cada provincia o isla",
+        "Tres cuartas partes de los municipios",
         "La totalidad de los municipios"
       ],
       "correct": 1

@@ -2,7 +2,7 @@
   "title": "Parte Común - Tema I: Constitución, Gobierno y Administración",
   "questions": [
     {
-      "q": "El Poder Ejecutivo es definido como la suma del Gobierno y la Administración. ¿En qué Título de la Constitución se recogen?",
+      "q": "¿En qué título de la Constitución se regula el Gobierno y la Administración?",
       "options": [
         "Título II",
         "Título III",
@@ -32,14 +32,14 @@
       "correct": 2
     },
     {
-      "q": "La relación entre el Gobierno y la Administración es de:",
+      "q": "Según el artículo 97 de la Constitución, ¿qué relación funcional existe entre el Gobierno y la Administración civil y militar?",
       "options": [
-        "Igualdad y coordinación",
-        "Subordinación y dependencia de la Administración respecto del Gobierno",
-        "Autonomía plena",
-        "Colaboración voluntaria"
+        "El Gobierno la dirige",
+        "El Gobierno depende de ella",
+        "La dirige el Congreso de los Diputados",
+        "La dirigen los tribunales"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "q": "¿Quién nombra a los demás miembros del Gobierno?",
@@ -82,14 +82,14 @@
       "correct": 1
     },
     {
-      "q": "¿Cuál de los siguientes no es un órgano superior de la Administración General del Estado?",
+      "q": "Según la Ley 40/2015, ¿qué órganos tienen la consideración de órganos superiores de la Administración General del Estado?",
       "options": [
-        "Ministros",
-        "Secretarios de Estado",
-        "Subsecretarios",
-        "El Presidente del Gobierno"
+        "Los Ministros y los Secretarios de Estado",
+        "Los Subsecretarios y los Directores Generales",
+        "Los Delegados y Subdelegados del Gobierno",
+        "Los Secretarios Generales Técnicos y los Subdirectores Generales"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "q": "¿Cuál es el supremo órgano consultivo del Gobierno?",
