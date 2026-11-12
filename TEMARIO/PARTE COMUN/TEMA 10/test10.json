@@ -1,0 +1,205 @@
+{
+  "title": "Parte Común - Tema X: Régimen Jurídico del Sector Público",
+  "questions": [
+    {
+      "q": "¿Qué ley regula el régimen jurídico del sector público?",
+      "options": [
+        "Ley 40/2015",
+        "Ley 39/2015",
+        "Ley 19/2013",
+        "Ley 22/2006"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué principio debe respetar la actuación de las Administraciones Públicas?",
+      "options": [
+        "Coordinación",
+        "Arbitrariedad",
+        "Opacidad",
+        "Desconcentración obligatoria en todo caso"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "La competencia administrativa es:",
+      "options": [
+        "Irrenunciable y se ejerce por los órganos que la tienen atribuida, salvo delegación o avocación",
+        "Renunciable libremente",
+        "Siempre transferible a particulares",
+        "Una facultad personal del empleado"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué efecto produce la delegación de competencias sobre la titularidad?",
+      "options": [
+        "No altera la titularidad de la competencia",
+        "La transfiere definitivamente",
+        "La extingue",
+        "La convierte en competencia judicial"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué es la avocación?",
+      "options": [
+        "La asunción por un órgano superior del conocimiento de un asunto atribuido ordinariamente a un órgano dependiente",
+        "La renuncia del interesado",
+        "La publicación de una norma",
+        "La creación de un órgano colegiado"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Puede delegarse la adopción de disposiciones de carácter general?",
+      "options": [
+        "No, la delegación de esa competencia está prohibida",
+        "Sí, siempre",
+        "Solo en un empleado eventual",
+        "Solo verbalmente"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué instrumento puede utilizarse para encomendar actividades materiales o técnicas a otro órgano o entidad?",
+      "options": [
+        "Encomienda de gestión",
+        "Avocación",
+        "Revisión de oficio",
+        "Recurso de alzada"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué debe hacer una autoridad o empleado público si concurre una causa legal de abstención?",
+      "options": [
+        "Abstenerse de intervenir y comunicarlo a su superior",
+        "Continuar sin comunicarlo",
+        "Resolver obligatoriamente el asunto",
+        "Delegar el expediente en el interesado"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué condición caracteriza a un órgano colegiado?",
+      "options": [
+        "Está integrado por varias personas que deliberan y adoptan acuerdos conforme a sus reglas",
+        "Tiene un único titular",
+        "Carece de reglas de funcionamiento",
+        "Solo puede reunirse en sede judicial"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué deben indicar las resoluciones administrativas cuando se dictan por delegación?",
+      "options": [
+        "Que se adoptan por delegación y se consideran dictadas por el órgano delegante",
+        "Que se dictan por un órgano judicial",
+        "Que carecen de autor",
+        "Que son acuerdos privados"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué responsabilidad puede exigirse a las Administraciones Públicas por daños antijurídicos causados por el funcionamiento de los servicios públicos?",
+      "options": [
+        "Responsabilidad patrimonial en los términos legales",
+        "Responsabilidad penal automática",
+        "Responsabilidad política de los ciudadanos",
+        "Ninguna responsabilidad"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué principio exige que las Administraciones intercambien información y actúen de forma compatible cuando ejercen competencias relacionadas?",
+      "options": [
+        "Cooperación y coordinación",
+        "Confidencialidad absoluta",
+        "Jerarquía entre todas las Administraciones",
+        "Autonomía sin colaboración"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué ley fue aprobada el 1 de octubre de 2015 para regular el régimen jurídico del sector público?",
+      "options": [
+        "Ley 40/2015",
+        "Ley 39/2015",
+        "Ley 19/2013",
+        "Ley 7/1985"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué materia regula principalmente la Ley 40/2015 frente a la Ley 39/2015?",
+      "options": [
+        "El procedimiento electoral",
+        "La organización y el funcionamiento interno del sector público y sus relaciones",
+        "El régimen de los contratos privados",
+        "La jurisdicción penal"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Qué precepto constitucional vincula la programación y ejecución del gasto público con criterios de eficiencia y economía?",
+      "options": [
+        "Artículo 9.2",
+        "Artículo 14",
+        "Artículo 31.2",
+        "Artículo 135.4"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿Qué principio establece que cada Administración debe actuar para lograr los objetivos que tiene asignados?",
+      "options": [
+        "Arbitrariedad",
+        "Opacidad",
+        "Independencia judicial",
+        "Eficacia"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "¿Qué relación existe entre una competencia delegada y su titularidad?",
+      "options": [
+        "La delegación no cambia la titularidad de la competencia",
+        "La titularidad pasa siempre al delegado",
+        "La competencia desaparece",
+        "La delegación convierte el asunto en judicial"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué debe hacer un empleado público cuando concurre una causa legal de abstención?",
+      "options": [
+        "Resolver el asunto sin comunicarlo",
+        "Abstenerse e informar a su superior",
+        "Pedir al interesado que decida",
+        "Continuar solo si el expediente es electrónico"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Qué debe reunir un daño para que pueda dar lugar a responsabilidad patrimonial de la Administración, entre otros requisitos?",
+      "options": [
+        "Ser hipotético y general",
+        "Derivar siempre de fuerza mayor",
+        "Ser efectivo, evaluable económicamente e individualizado",
+        "Ser una mera expectativa"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿Qué principio deben asegurar las Administraciones Públicas en sus relaciones recíprocas?",
+      "options": [
+        "Competencia exclusiva universal",
+        "Subordinación automática entre Administraciones",
+        "Ausencia de intercambio de información",
+        "Cooperación y coordinación"
+      ],
+      "correct": 3
+    }
+  ]
+}

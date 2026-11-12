@@ -1,0 +1,205 @@
+{
+  "title": "Parte Común - Tema IX: Procedimiento Administrativo Común",
+  "questions": [
+    {
+      "q": "¿Qué ley regula el procedimiento administrativo común de las Administraciones Públicas?",
+      "options": [
+        "Ley 39/2015",
+        "Ley 40/2015",
+        "Ley 19/2013",
+        "Ley 7/1985"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué norma establece los requisitos de validez y eficacia de los actos administrativos?",
+      "options": [
+        "Ley 39/2015",
+        "Ley 40/2015",
+        "Ley 19/2013",
+        "Ley 22/2006"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Cuándo comienza, como regla general, el cómputo de un plazo expresado en días?",
+      "options": [
+        "El mismo día de la notificación",
+        "Al día siguiente de la notificación o publicación",
+        "Al final del mes",
+        "Cuando lo decida el interesado"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Qué personas están obligadas a relacionarse electrónicamente con las Administraciones en los supuestos establecidos por la ley?",
+      "options": [
+        "Las personas jurídicas",
+        "Todas las personas físicas sin excepción",
+        "Los menores de edad exclusivamente",
+        "Ninguna persona"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué registro debe permitir la presentación de documentos dirigidos a las Administraciones Públicas?",
+      "options": [
+        "El Registro Electrónico General correspondiente",
+        "El registro mercantil exclusivamente",
+        "El padrón municipal",
+        "El registro civil"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué debe incluir la notificación de un acto administrativo?",
+      "options": [
+        "El texto íntegro, indicación de si pone fin a la vía administrativa y los recursos procedentes",
+        "Solo el número de expediente",
+        "La opinión personal del instructor",
+        "Una copia del presupuesto"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Cuál es el plazo general para cursar la notificación de un acto desde que se dicta?",
+      "options": [
+        "Diez días",
+        "Un mes",
+        "Tres meses",
+        "Veinticuatro horas"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué efecto tiene, con carácter general, la falta de resolución expresa en procedimientos iniciados a solicitud del interesado, salvo excepciones legales?",
+      "options": [
+        "Silencio administrativo estimatorio",
+        "Caducidad inmediata",
+        "Nulidad automática de toda actuación",
+        "Silencio siempre desestimatorio"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué recurso administrativo ordinario procede contra actos que no ponen fin a la vía administrativa?",
+      "options": [
+        "Recurso de alzada",
+        "Recurso extraordinario de revisión siempre",
+        "Recurso de casación",
+        "Recurso de amparo directo"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué recurso puede interponerse potestativamente contra actos que ponen fin a la vía administrativa?",
+      "options": [
+        "Recurso de reposición",
+        "Recurso de alzada",
+        "Recurso de súplica penal",
+        "Recurso de casación civil"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿En qué plazo se interpone, con carácter general, el recurso de alzada contra un acto expreso?",
+      "options": [
+        "Un mes",
+        "Diez días",
+        "Tres meses",
+        "Un año"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué principio permite a una persona interesada conocer el estado de tramitación de su procedimiento?",
+      "options": [
+        "Derecho de acceso al expediente en los términos legales",
+        "Secreto absoluto de las actuaciones",
+        "Principio de oportunidad penal",
+        "Inmunidad administrativa"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿En qué artículo de la Ley 39/2015 se recogen derechos de las personas en sus relaciones con las Administraciones?",
+      "options": [
+        "Artículo 13",
+        "Artículo 23",
+        "Artículo 33",
+        "Artículo 53"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿En qué artículo de la Ley 39/2015 se recogen derechos de las personas interesadas en un procedimiento?",
+      "options": [
+        "Artículo 13",
+        "Artículo 53",
+        "Artículo 23",
+        "Artículo 33"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Cuál es la norma general del procedimiento administrativo de las Administraciones Públicas?",
+      "options": [
+        "Ley 40/2015",
+        "Ley 19/2013",
+        "Ley 39/2015",
+        "Ley 7/1985"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿Qué plazo general fija la Ley 39/2015 para cursar una notificación desde que se dicta el acto?",
+      "options": [
+        "Tres días",
+        "Un mes",
+        "Quince días",
+        "Diez días"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "¿Qué opción tiene normalmente una persona física sobre el canal de comunicación con la Administración?",
+      "options": [
+        "Puede elegir el canal y cambiarlo en los términos legales",
+        "Está siempre obligada a utilizar medios electrónicos",
+        "Solo puede comunicarse en papel",
+        "Debe mantener un único canal para toda su vida"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué recurso procede, como regla general, contra un acto que no pone fin a la vía administrativa?",
+      "options": [
+        "Reposición",
+        "Alzada",
+        "Casación",
+        "Amparo"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Qué efecto tiene, con carácter general, el silencio administrativo en procedimientos iniciados de oficio que pueden reconocer derechos?",
+      "options": [
+        "Estimación automática",
+        "Nulidad de pleno derecho",
+        "Desestimación de las pretensiones",
+        "Aprobación por el Consejo de Estado"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿A qué personas obliga la Ley 39/2015 a relacionarse electrónicamente con las Administraciones en todo caso dentro de su ámbito?",
+      "options": [
+        "A todas las personas físicas",
+        "Solo a los menores",
+        "A cualquier usuario de servicios públicos",
+        "A las personas jurídicas"
+      ],
+      "correct": 3
+    }
+  ]
+}

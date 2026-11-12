@@ -1,0 +1,235 @@
+{
+  "title": "Parte Común - Tema II: Organización Territorial del Estado",
+  "questions": [
+    {
+      "q": "¿Cuál es el artículo de la CE que proclama la indisoluble unidad de la Nación española y el derecho a la autonomía?",
+      "options": [
+        "Artículo 1",
+        "Artículo 2",
+        "Artículo 137",
+        "Artículo 138"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "La Constitución se organiza territorialmente en municipios, provincias y...",
+      "options": [
+        "Regiones",
+        "Comarcas",
+        "Comunidades Autónomas",
+        "Distritos"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿Qué artículo de la CE garantiza la autonomía de los municipios?",
+      "options": [
+        "Artículo 137",
+        "Artículo 138",
+        "Artículo 139",
+        "Artículo 140"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "¿Quién elige a los Concejales de un Ayuntamiento?",
+      "options": [
+        "El Alcalde",
+        "Los vecinos mediante sufragio universal, igual, libre, directo y secreto",
+        "La Diputación Provincial",
+        "El Pleno de la Comunidad Autónoma"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Cuál es la división territorial para el cumplimiento de las actividades del Estado?",
+      "options": [
+        "El Municipio",
+        "La Provincia",
+        "La Comarca",
+        "La Comunidad Autónoma"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "La iniciativa autonómica del artículo 143 requiere el acuerdo de las Diputaciones y de:",
+      "options": [
+        "La mitad de los municipios",
+        "Las dos terceras partes de los municipios, con los requisitos de población previstos",
+        "Las tres cuartas partes de los municipios",
+        "La totalidad de los municipios"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Cuál es la norma institucional básica de cada Comunidad Autónoma?",
+      "options": [
+        "La Constitución",
+        "La Ley Orgánica de Transferencia",
+        "El Estatuto de Autonomía",
+        "La Ley de Armonización"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "Según el artículo 149 de la CE, ¿qué materia es competencia exclusiva del Estado?",
+      "options": [
+        "Urbanismo",
+        "Asistencia social",
+        "Sanidad e higiene",
+        "Relaciones internacionales"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "¿Qué órgano dirige la Administración del Estado en el territorio de la Comunidad Autónoma?",
+      "options": [
+        "El Presidente de la CC.AA.",
+        "El Delegado del Gobierno",
+        "El Subdelegado del Gobierno",
+        "El Alcalde"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Cuál es el fin del Fondo de Compensación Interterritorial?",
+      "options": [
+        "Financiar los presupuestos de las CC.AA.",
+        "Corregir desequilibrios económicos interterritoriales",
+        "Pagar la deuda del Estado",
+        "Financiar a los municipios"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Qué entidad local tiene personalidad jurídica propia y plena capacidad?",
+      "options": [
+        "El municipio",
+        "El distrito",
+        "La mancomunidad informal",
+        "La comarca en todo caso"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Quién gobierna y administra el municipio, salvo en los municipios que funcionen en concejo abierto?",
+      "options": [
+        "El Ayuntamiento, integrado por el Alcalde y los Concejales",
+        "La Diputación Provincial",
+        "La Delegación del Gobierno",
+        "El Consejo de Estado"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué entidad está determinada por la agrupación de municipios y es división territorial para el cumplimiento de las actividades del Estado?",
+      "options": [
+        "La provincia",
+        "La comarca",
+        "El distrito",
+        "La isla"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué artículo constitucional establece que todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado?",
+      "options": [
+        "Artículo 137",
+        "Artículo 138",
+        "Artículo 139",
+        "Artículo 141"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "La autonomía de las nacionalidades y regiones se reconoce y garantiza dentro de:",
+      "options": [
+        "La soberanía municipal",
+        "La unidad de la Nación española",
+        "La competencia provincial exclusiva",
+        "La independencia de cada territorio"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "Según el artículo 137 de la Constitución, ¿qué entidades territoriales gozan de autonomía para gestionar sus intereses?",
+      "options": [
+        "Municipios, provincias y comunidades autónomas",
+        "Municipios, comarcas y regiones",
+        "Provincias y partidos judiciales",
+        "Municipios y distritos"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿A quién atribuye la Constitución la garantía del principio de solidaridad entre nacionalidades y regiones?",
+      "options": [
+        "A cada municipio",
+        "Al Estado",
+        "A las diputaciones provinciales",
+        "Al Senado exclusivamente"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Qué entidad dispone de autonomía financiera para desarrollar y ejecutar sus competencias, según el artículo 156?",
+      "options": [
+        "Los distritos",
+        "Las provincias",
+        "Las comunidades autónomas",
+        "Las mancomunidades"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿Qué prohíbe expresamente el artículo 145 de la Constitución?",
+      "options": [
+        "La cooperación entre comunidades autónomas",
+        "Los convenios para gestionar servicios propios",
+        "La delegación de competencias estatales",
+        "La federación de comunidades autónomas"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "¿Qué entidad local constituye la unidad básica de la organización territorial del Estado?",
+      "options": [
+        "El municipio",
+        "La provincia",
+        "La comarca",
+        "La comunidad autónoma"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿En qué municipio debe inscribirse una persona en el padrón?",
+      "options": [
+        "En aquel donde nació",
+        "En el que reside habitualmente",
+        "En el que trabaja",
+        "En el que tiene nacionalidad"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Qué entidad local agrupa municipios y constituye una división territorial para las actividades del Estado?",
+      "options": [
+        "La comarca",
+        "El distrito",
+        "La provincia",
+        "La mancomunidad"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿Qué entidad puede crearse para gestionar conjuntamente obras y servicios de interés común para varios municipios?",
+      "options": [
+        "Una comunidad autónoma",
+        "Una provincia nueva",
+        "Un distrito",
+        "Una mancomunidad"
+      ],
+      "correct": 3
+    }
+  ]
+}

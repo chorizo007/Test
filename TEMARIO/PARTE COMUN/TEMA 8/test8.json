@@ -1,0 +1,205 @@
+{
+  "title": "Parte Común - Tema VIII: Transparencia y acceso a la información",
+  "questions": [
+    {
+      "q": "¿Qué ley estatal regula la transparencia, el acceso a la información pública y el buen gobierno?",
+      "options": [
+        "Ley 19/2013",
+        "Ley 39/2015",
+        "Ley 40/2015",
+        "Ley 7/1985"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué es la publicidad activa?",
+      "options": [
+        "La publicación periódica de información pública sin necesidad de solicitud previa",
+        "La difusión de información privada",
+        "La respuesta a una llamada telefónica",
+        "La publicación exclusiva de anuncios electorales"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Quién puede ejercer el derecho de acceso a la información pública conforme a la Ley 19/2013?",
+      "options": [
+        "Todas las personas",
+        "Solo los empleados públicos",
+        "Solo los residentes del municipio",
+        "Únicamente los concejales"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Debe la persona solicitante justificar el motivo de su solicitud de acceso?",
+      "options": [
+        "No, la solicitud no tiene que motivarse",
+        "Sí, siempre debe probar un interés directo",
+        "Solo si la información es municipal",
+        "Sí, mediante autorización judicial"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Cuál es el plazo general máximo para resolver una solicitud de acceso según la Ley 19/2013?",
+      "options": [
+        "Un mes, ampliable por otro mes en los casos previstos",
+        "Diez días hábiles sin posibilidad de ampliación",
+        "Tres meses en todos los casos",
+        "Seis meses"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué debe hacerse si el acceso solicitado afecta a datos personales protegidos?",
+      "options": [
+        "Aplicar los límites y ponderaciones establecidos por la normativa",
+        "Publicarlos íntegramente",
+        "Rechazar toda solicitud automáticamente",
+        "Entregar solo copias sin revisar"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Cuál de estas materias puede justificar un límite al derecho de acceso cuando resulte aplicable?",
+      "options": [
+        "La seguridad pública",
+        "La mera incomodidad del órgano",
+        "La falta de interés del solicitante",
+        "La existencia de una solicitud extensa por sí sola"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué debe incluir la información institucional y organizativa publicada activamente?",
+      "options": [
+        "La estructura organizativa y las funciones de los órganos",
+        "Las contraseñas de los empleados",
+        "Los datos bancarios personales",
+        "Los expedientes médicos"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué derecho puede ejercerse frente a una resolución expresa o presunta de acceso en los términos legales?",
+      "options": [
+        "Reclamación ante el órgano de garantía competente o recurso procedente",
+        "Recurso penal automático",
+        "Veto municipal",
+        "Moción de censura"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Cuál es una finalidad de la transparencia pública?",
+      "options": [
+        "Facilitar el control de la actividad pública y la rendición de cuentas",
+        "Sustituir todos los procedimientos administrativos",
+        "Permitir el acceso ilimitado a datos privados",
+        "Eliminar la protección de datos"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué debe hacer la Administración con información pública reutilizable cuando corresponda?",
+      "options": [
+        "Facilitar su reutilización conforme a la normativa aplicable",
+        "Impedir toda reutilización",
+        "Publicarla solo en papel",
+        "Exigir autorización judicial previa en todo caso"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "La Ordenanza de Transparencia de la Ciudad de Madrid se aplica principalmente a:",
+      "options": [
+        "La actividad y entidades municipales incluidas en su ámbito",
+        "Todos los Estados de la Unión Europea",
+        "Los tribunales estatales",
+        "Las empresas privadas sin relación municipal"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Cuál es el título oficial de la Ley 19/2013?",
+      "options": [
+        "Ley de transparencia, acceso a la información pública y buen gobierno",
+        "Ley de acceso universal a los datos privados",
+        "Ley de procedimiento común y transparencia",
+        "Ley de publicidad institucional"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué se entiende por publicidad activa?",
+      "options": [
+        "La entrega de cualquier dato personal",
+        "La publicación periódica de información pública sin esperar una solicitud",
+        "La publicación exclusiva de anuncios",
+        "La respuesta a una reclamación judicial"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Qué órgano estatal vela por el cumplimiento de las obligaciones previstas en la Ley 19/2013 dentro de su ámbito?",
+      "options": [
+        "El Consejo de Estado",
+        "El Tribunal de Cuentas",
+        "El Consejo de Transparencia y Buen Gobierno",
+        "El Congreso de los Diputados"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿Qué norma municipal regula la transparencia en la ciudad de Madrid?",
+      "options": [
+        "Un bando de distrito",
+        "Una instrucción de la Tesorería",
+        "El reglamento del Senado",
+        "La Ordenanza de Transparencia de la Ciudad de Madrid"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "¿Debe una persona explicar por qué solicita información pública?",
+      "options": [
+        "No, la solicitud no tiene que motivarse",
+        "Sí, siempre debe acreditar un interés directo",
+        "Sí, solo puede pedirla un residente",
+        "Debe obtener autorización judicial"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué puede hacer la Administración si una solicitud afecta a información protegida por un límite legal?",
+      "options": [
+        "Publicarla automáticamente",
+        "Aplicar el límite y valorar el acceso parcial cuando proceda",
+        "Rechazar todas las solicitudes futuras",
+        "Entregar los datos personales sin revisión"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Qué objetivo persigue la transparencia de la actividad pública?",
+      "options": [
+        "Eliminar la protección de datos",
+        "Evitar toda fiscalización",
+        "Facilitar el control público y la rendición de cuentas",
+        "Sustituir los procedimientos administrativos"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿Cuál de estos contenidos debe publicarse activamente conforme a las obligaciones de transparencia?",
+      "options": [
+        "Contraseñas de acceso del personal",
+        "Historias clínicas de particulares",
+        "Datos bancarios personales",
+        "Información institucional, organizativa y de planificación exigible"
+      ],
+      "correct": 3
+    }
+  ]
+}

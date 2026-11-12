@@ -1,0 +1,235 @@
+{
+  "title": "Parte Común - Tema III: Organización política y administrativa del Ayuntamiento",
+  "questions": [
+    {
+      "q": "¿Qué ley establece el régimen de organización de los municipios de gran población, como Madrid?",
+      "options": [
+        "Ley 7/1985",
+        "Ley 57/2003",
+        "Ley 50/1997",
+        "Ley 27/2013"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "El Pleno del Ayuntamiento de Madrid es el órgano de máxima representación política de los ciudadanos. ¿Cuál es su principal función según el nuevo modelo?",
+      "options": [
+        "La gestión diaria de los servicios",
+        "La dirección política y administrativa",
+        "El control y fiscalización del ejecutivo",
+        "La ejecución de los presupuestos"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿Quién ostenta la máxima representación del municipio y dirige la política, el gobierno y la administración municipal?",
+      "options": [
+        "El Pleno",
+        "El Alcalde",
+        "El Concejal de Hacienda",
+        "El Secretario General del Pleno"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "Los Tenientes de Alcalde son nombrados por:",
+      "options": [
+        "El Pleno",
+        "Los ciudadanos",
+        "El Alcalde entre los concejales",
+        "La Junta de Gobierno"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "La Junta de Gobierno Local es un órgano que, bajo la presidencia del alcalde:",
+      "options": [
+        "Ejerce la función legislativa",
+        "Colabora de forma colegiada en la función de dirección política",
+        "Controla al Pleno",
+        "Administra la justicia municipal"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Quién puede formar parte de la Junta de Gobierno Local sin ser concejal?",
+      "options": [
+        "Nadie, todos deben ser concejales",
+        "Personas designadas por el Alcalde, hasta un tercio de sus miembros",
+        "El Secretario General del Pleno",
+        "El Interventor General"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Cuál es el tratamiento protocolario de los Concejales del Ayuntamiento de Madrid?",
+      "options": [
+        "Excelencia",
+        "Ilustrísima",
+        "Señoría",
+        "Excelentísimo"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "Los grupos políticos municipales se constituyen mediante escrito dirigido al:",
+      "options": [
+        "Alcalde",
+        "Presidente del Pleno",
+        "Secretario General del Pleno",
+        "Concejal de Participación Ciudadana"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "El órgano de dirección del Pleno es:",
+      "options": [
+        "El Alcalde",
+        "El Secretario General",
+        "El Presidente del Pleno",
+        "La Junta de Portavoces"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "Las sesiones del Pleno pueden dejar de ser públicas en los supuestos legalmente previstos si así se acuerda por:",
+      "options": [
+        "Mayoría simple",
+        "Mayoría absoluta",
+        "Unanimidad",
+        "El Secretario General"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Qué órgano aprueba las ordenanzas y reglamentos municipales?",
+      "options": [
+        "La Junta de Gobierno",
+        "El Pleno",
+        "El Alcalde en solitario",
+        "La Junta Municipal de Distrito"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Quién dirige el gobierno y la administración municipal y representa al Ayuntamiento?",
+      "options": [
+        "El Alcalde",
+        "El Presidente de la Comunidad de Madrid",
+        "El Secretario General del Pleno",
+        "El Interventor"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué órgano aprueba el proyecto de presupuesto municipal para someterlo al Pleno?",
+      "options": [
+        "La Junta de Gobierno",
+        "El Consejo de Estado",
+        "La Junta Electoral",
+        "La Cámara de Cuentas"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Cuál es la función principal de las comisiones del Pleno?",
+      "options": [
+        "Preparar el trabajo plenario y ejercer las funciones que les atribuya la normativa",
+        "Sustituir permanentemente al Alcalde",
+        "Dirigir los juzgados",
+        "Aprobar por sí solas todas las ordenanzas"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Quién nombra y separa a los miembros de la Junta de Gobierno de Madrid conforme al régimen de gran población?",
+      "options": [
+        "El Alcalde",
+        "El Pleno por sorteo",
+        "Los vecinos mediante elección directa",
+        "El Secretario General"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué órgano municipal aprueba las ordenanzas y los reglamentos del Ayuntamiento?",
+      "options": [
+        "El Pleno",
+        "La Alcaldía",
+        "La Junta de Gobierno",
+        "La Junta Municipal de Distrito"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Cuál es una función característica del Pleno municipal en el régimen de gran población?",
+      "options": [
+        "Gestionar diariamente todos los servicios",
+        "Controlar y fiscalizar los órganos de gobierno",
+        "Nombrar a todos los empleados municipales",
+        "Dirigir la Administración estatal en Madrid"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Quién nombra a los Tenientes de Alcalde?",
+      "options": [
+        "El Pleno",
+        "La Junta de Gobierno",
+        "El Alcalde",
+        "Los vecinos por sufragio directo"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿A quién corresponde la presidencia de la Junta de Gobierno Local?",
+      "options": [
+        "Al Presidente del Pleno",
+        "Al Secretario General",
+        "Al Concejal de Hacienda",
+        "Al Alcalde"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "En el Ayuntamiento de Madrid, ¿cuál es el número mínimo general de concejales para constituir un grupo municipal propio?",
+      "options": [
+        "Dos",
+        "Tres",
+        "Cuatro",
+        "Cinco"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué órgano puede recibir delegaciones de competencias del Pleno en los casos permitidos?",
+      "options": [
+        "La Junta Electoral",
+        "Las comisiones del Pleno",
+        "La Delegación del Gobierno",
+        "La Intervención General"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Cómo se denominan los miembros de la Junta de Gobierno que son concejales y ejercen responsabilidades de gobierno?",
+      "options": [
+        "Concejales de distrito",
+        "Vocales vecinos",
+        "Concejales de Gobierno",
+        "Secretarios de Estado"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿Qué regla general se aplica a la publicidad de las sesiones del Pleno?",
+      "options": [
+        "Son siempre secretas",
+        "Son públicas solo si lo autoriza el Alcalde",
+        "Son públicas únicamente para los concejales",
+        "Son públicas, con las excepciones previstas legalmente"
+      ],
+      "correct": 3
+    }
+  ]
+}

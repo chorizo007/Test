@@ -1,0 +1,235 @@
+{
+  "title": "Parte Común - Tema I: Constitución, Gobierno y Administración",
+  "questions": [
+    {
+      "q": "El Poder Ejecutivo es definido como la suma del Gobierno y la Administración. ¿En qué Título de la Constitución se recogen?",
+      "options": [
+        "Título II",
+        "Título III",
+        "Título IV",
+        "Título V"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "Según el artículo 97 de la CE, ¿quién dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado?",
+      "options": [
+        "El Rey",
+        "Las Cortes Generales",
+        "El Gobierno",
+        "El Tribunal Constitucional"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿Qué artículo de la CE establece que la Administración Pública sirve con objetividad a los intereses generales?",
+      "options": [
+        "Artículo 97",
+        "Artículo 98",
+        "Artículo 103",
+        "Artículo 107"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "La relación entre el Gobierno y la Administración es de:",
+      "options": [
+        "Igualdad y coordinación",
+        "Subordinación y dependencia de la Administración respecto del Gobierno",
+        "Autonomía plena",
+        "Colaboración voluntaria"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Quién nombra a los demás miembros del Gobierno?",
+      "options": [
+        "El Presidente del Congreso",
+        "El Rey, a propuesta del Presidente del Gobierno",
+        "El Congreso de los Diputados",
+        "El Presidente del Gobierno en solitario"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Cuál es el plazo máximo para que, tras la primera votación de investidura, si ningún candidato obtiene la confianza, el Rey disuelva las Cámaras?",
+      "options": [
+        "Un mes",
+        "Dos meses",
+        "Tres meses",
+        "Cuarenta y ocho horas"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Qué tipo de responsabilidad es exigible al Gobierno ante la Sala de lo Penal del Tribunal Supremo?",
+      "options": [
+        "Responsabilidad política",
+        "Responsabilidad civil",
+        "Responsabilidad penal",
+        "Responsabilidad administrativa"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "El Gobierno en funciones no podrá ejercer la facultad de:",
+      "options": [
+        "Despachar asuntos de trámite",
+        "Proponer al Rey la disolución de las Cámaras",
+        "Gestionar el presupuesto aprobado",
+        "Nombrar funcionarios de carrera"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Cuál de los siguientes no es un órgano superior de la Administración General del Estado?",
+      "options": [
+        "Ministros",
+        "Secretarios de Estado",
+        "Subsecretarios",
+        "El Presidente del Gobierno"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿Cuál es el supremo órgano consultivo del Gobierno?",
+      "options": [
+        "El Consejo General del Poder Judicial",
+        "El Consejo de Estado",
+        "El Tribunal de Cuentas",
+        "La Secretaría General Técnica"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Qué principio debe respetar la Administración Pública según el artículo 103 de la Constitución?",
+      "options": [
+        "Arbitrariedad",
+        "Eficacia",
+        "Discrecionalidad absoluta",
+        "Dependencia judicial"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Quién controla la potestad reglamentaria y la legalidad de la actuación administrativa?",
+      "options": [
+        "El Gobierno",
+        "Los Tribunales",
+        "El Senado exclusivamente",
+        "El Consejo de Estado"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Qué órgano propone al Rey el candidato a la Presidencia del Gobierno tras consultar a los representantes designados por los grupos políticos?",
+      "options": [
+        "El Presidente del Congreso",
+        "El Presidente del Senado",
+        "El Consejo de Ministros",
+        "El Tribunal Constitucional"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "La moción de censura al Gobierno debe incluir:",
+      "options": [
+        "Una propuesta de nuevo Presidente del Gobierno",
+        "La disolución del Senado",
+        "La convocatoria de elecciones municipales",
+        "La aprobación de los Presupuestos"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué artículo constitucional establece que el Gobierno responde solidariamente de su gestión política ante el Congreso?",
+      "options": [
+        "Artículo 97",
+        "Artículo 98",
+        "Artículo 108",
+        "Artículo 115"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿En qué fecha se sometió la Constitución de 1978 a referéndum?",
+      "options": [
+        "31 de octubre de 1978",
+        "6 de diciembre de 1978",
+        "27 de diciembre de 1978",
+        "29 de diciembre de 1978"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Qué autoridad sancionó la Constitución española de 1978 antes de su publicación?",
+      "options": [
+        "El Presidente del Gobierno",
+        "El Presidente del Congreso",
+        "El Rey",
+        "El Tribunal Constitucional"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿En qué título constitucional se regulan las Cortes Generales?",
+      "options": [
+        "Título III",
+        "Título II",
+        "Título IV",
+        "Título V"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Según el artículo 29 de la Constitución, ¿a quién reconoce el derecho de petición?",
+      "options": [
+        "A todas las personas sin excepción",
+        "A los españoles",
+        "Solo a los funcionarios",
+        "Solo a los mayores de edad"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Qué artículo constitucional reconoce la libertad ideológica, religiosa y de culto?",
+      "options": [
+        "Artículo 14",
+        "Artículo 15",
+        "Artículo 16",
+        "Artículo 18"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿Cuál es la duración máxima ordinaria de la detención preventiva antes de poner a la persona en libertad o a disposición judicial?",
+      "options": [
+        "24 horas",
+        "48 horas",
+        "96 horas",
+        "72 horas"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "¿Qué rango tiene la ley que regula al Defensor del Pueblo?",
+      "options": [
+        "Ley orgánica",
+        "Real decreto",
+        "Orden ministerial",
+        "Ley autonómica"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿En qué fecha se publicó la Constitución de 1978 en el Boletín Oficial del Estado?",
+      "options": [
+        "6 de diciembre de 1978",
+        "29 de diciembre de 1978",
+        "31 de octubre de 1978",
+        "27 de diciembre de 1978"
+      ],
+      "correct": 1
+    }
+  ]
+}

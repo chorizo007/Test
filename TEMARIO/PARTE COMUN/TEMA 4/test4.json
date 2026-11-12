@@ -1,0 +1,205 @@
+{
+  "title": "Parte Común - Tema IV: Organización administrativa del Ayuntamiento de Madrid",
+  "questions": [
+    {
+      "q": "¿Qué norma establece el régimen especial de Madrid como capital del Estado?",
+      "options": [
+        "Ley 22/2006, de Capitalidad y de Régimen Especial de Madrid",
+        "Ley 39/2015",
+        "Ley 7/1985 exclusivamente",
+        "Ley 40/2015"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Cuál es un órgano de gobierno municipal de Madrid?",
+      "options": [
+        "La Junta de Gobierno",
+        "El Consejo de Estado",
+        "La Diputación de Madrid",
+        "La Delegación provincial"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué órgano representa a los vecinos y ejerce, entre otras, funciones normativas y de control?",
+      "options": [
+        "El Pleno",
+        "La Alcaldía exclusivamente",
+        "La Junta de Distrito",
+        "La Intervención"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Quién dirige la Administración municipal y coordina la acción de gobierno?",
+      "options": [
+        "El Alcalde",
+        "El Secretario General del Pleno",
+        "El Presidente de la Asamblea de Madrid",
+        "El Delegado del Gobierno"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué órgano asiste al Alcalde en la dirección política y ejerce funciones ejecutivas y administrativas?",
+      "options": [
+        "La Junta de Gobierno",
+        "El Pleno exclusivamente",
+        "El Consejo de Estado",
+        "La Junta Electoral"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué órgano presta asistencia jurídica al Ayuntamiento en los términos previstos por la normativa local?",
+      "options": [
+        "La Asesoría Jurídica",
+        "La Junta Electoral",
+        "El Tribunal de Cuentas",
+        "El Consejo de Estado"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué órgano ejerce el control y fiscalización interna de la gestión económico-financiera municipal?",
+      "options": [
+        "La Intervención General",
+        "La Junta de Portavoces",
+        "El Pleno de la Asamblea",
+        "La Secretaría General del Pleno"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué área municipal realiza funciones de gestión agrupadas por materias bajo la dirección política correspondiente?",
+      "options": [
+        "Un Área de Gobierno",
+        "Una provincia",
+        "Una comunidad autónoma",
+        "Una entidad estatal"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué órgano municipal tiene como ámbito territorial una parte del municipio y canaliza la gestión desconcentrada?",
+      "options": [
+        "El distrito",
+        "La provincia",
+        "La comunidad autónoma",
+        "La mancomunidad"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Cuál es una norma básica del régimen local que regula la organización y competencias municipales?",
+      "options": [
+        "Ley 7/1985, Reguladora de las Bases del Régimen Local",
+        "Ley Orgánica 2/1979",
+        "Ley 50/1997",
+        "Ley 19/2013 únicamente"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué principio organizativo aproxima la gestión municipal a los barrios sin crear un nuevo municipio?",
+      "options": [
+        "Desconcentración",
+        "Soberanía",
+        "Inmunidad",
+        "Tutela judicial"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Quién puede establecer la organización de las Áreas de Gobierno dentro del marco normativo municipal?",
+      "options": [
+        "Los órganos municipales competentes conforme a la normativa de organización",
+        "El Tribunal Constitucional",
+        "La Diputación Provincial",
+        "El Congreso mediante acuerdo municipal"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué órgano del Ayuntamiento de Madrid realiza el control y la fiscalización interna económico-financiera?",
+      "options": [
+        "La Intervención General",
+        "La Asesoría Jurídica",
+        "La Junta de Gobierno",
+        "El Tribunal Económico-Administrativo"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué órgano municipal resuelve reclamaciones económico-administrativas dentro de su ámbito?",
+      "options": [
+        "La Intervención General",
+        "El Tribunal Económico-Administrativo Municipal",
+        "La Tesorería",
+        "La Secretaría General del Pleno"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Qué unidad presta asesoramiento jurídico y defensa legal al Ayuntamiento en los términos establecidos por las normas?",
+      "options": [
+        "La Tesorería",
+        "La Intervención General",
+        "La Asesoría Jurídica",
+        "La Junta Municipal"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿Cuál es una función propia de la Tesorería municipal?",
+      "options": [
+        "Aprobar ordenanzas",
+        "Controlar la legalidad constitucional",
+        "Resolver recursos de alzada de cualquier Administración",
+        "Gestionar fondos y pagos municipales"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "¿Qué organismo autónomo municipal se especializa en la gestión tributaria de la ciudad?",
+      "options": [
+        "La Agencia Tributaria Madrid",
+        "El Tribunal de Cuentas",
+        "El Consejo de Estado",
+        "La Junta Electoral"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿A quién corresponde principalmente la función interventora en el Ayuntamiento de Madrid?",
+      "options": [
+        "A la Junta Municipal",
+        "A la Intervención General",
+        "A la Agencia Tributaria",
+        "A la Asesoría Jurídica"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Cuál de estos órganos se ocupa de la gestión y recaudación de tributos municipales dentro de sus competencias?",
+      "options": [
+        "La Secretaría General del Pleno",
+        "La Junta Electoral",
+        "La Agencia Tributaria Madrid",
+        "El Consejo de Estado"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿Qué tipo de órgano es el Tribunal Económico-Administrativo Municipal?",
+      "options": [
+        "Un órgano legislativo estatal",
+        "Un órgano de gobierno de distrito",
+        "Un órgano de control constitucional",
+        "Un órgano municipal especializado en reclamaciones económico-administrativas"
+      ],
+      "correct": 3
+    }
+  ]
+}

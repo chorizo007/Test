@@ -1,0 +1,205 @@
+{
+  "title": "Parte Común - Tema VI: Distritos de Madrid",
+  "questions": [
+    {
+      "q": "¿Cuántos distritos tiene actualmente el municipio de Madrid?",
+      "options": [
+        "18",
+        "19",
+        "21",
+        "25"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿Qué son los distritos municipales?",
+      "options": [
+        "Divisiones territoriales del municipio para la gestión desconcentrada",
+        "Municipios independientes",
+        "Provincias",
+        "Órganos judiciales"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Quién preside normalmente la Junta Municipal de Distrito?",
+      "options": [
+        "Un Concejal Presidente",
+        "El Delegado del Gobierno",
+        "El Presidente de la Comunidad",
+        "El Secretario de Estado"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Quién nombra a los Concejales Presidentes de los distritos de Madrid?",
+      "options": [
+        "El Alcalde",
+        "Los vecinos en elección separada",
+        "La Diputación",
+        "El Pleno de la Asamblea de Madrid"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué órgano representa políticamente al distrito y permite la participación de los grupos municipales?",
+      "options": [
+        "La Junta Municipal de Distrito",
+        "La Diputación Provincial",
+        "El Consejo de Estado",
+        "El Senado"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Los distritos tienen personalidad jurídica propia como municipios?",
+      "options": [
+        "Sí, siempre",
+        "No, son órganos territoriales del Ayuntamiento",
+        "Solo si lo acuerda el Alcalde",
+        "Sí, pero solo en materia tributaria"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Cuál es una finalidad de la organización en distritos?",
+      "options": [
+        "Acercar la gestión municipal y la participación ciudadana a los barrios",
+        "Sustituir al Ayuntamiento",
+        "Crear nuevas provincias",
+        "Transferir la soberanía estatal"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué órgano puede debatir propuestas y asuntos de interés del distrito conforme a su reglamento?",
+      "options": [
+        "El Pleno de la Junta Municipal de Distrito",
+        "El Consejo de Estado",
+        "El Tribunal Supremo",
+        "La Diputación"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Quién fija las competencias de los órganos de distrito dentro del marco municipal?",
+      "options": [
+        "El Ayuntamiento mediante las normas y acuerdos de organización",
+        "El Gobierno de otro municipio",
+        "La Junta Electoral",
+        "El Congreso caso por caso"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué unidad realiza tareas de coordinación y gestión administrativa en el distrito?",
+      "options": [
+        "La Coordinación del Distrito",
+        "La Delegación del Gobierno",
+        "La Secretaría de Estado",
+        "La Diputación"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "La desconcentración territorial en distritos implica:",
+      "options": [
+        "Distribuir funciones administrativas dentro de la misma persona jurídica municipal",
+        "Crear un Estado federal",
+        "Transferir competencias a otro municipio",
+        "Suprimir los órganos centrales"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué principio favorece la intervención de los vecinos en asuntos de su distrito?",
+      "options": [
+        "Participación ciudadana",
+        "Jerarquía judicial",
+        "Unidad de caja",
+        "Tutela financiera estatal"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Cuántos distritos tiene el municipio de Madrid?",
+      "options": [
+        "21",
+        "19",
+        "20",
+        "22"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Cuál es una finalidad de los distritos municipales?",
+      "options": [
+        "Crear municipios independientes",
+        "Acercar la gestión municipal y fomentar la participación vecinal",
+        "Sustituir al Pleno del Ayuntamiento",
+        "Ejercer competencias estatales"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Qué órgano colegiado representa políticamente a los vecinos en cada distrito?",
+      "options": [
+        "La Junta de Gobierno",
+        "El Consejo de Estado",
+        "La Junta Municipal del Distrito",
+        "La Diputación Provincial"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿Qué cargo preside una Junta Municipal de Distrito?",
+      "options": [
+        "El Presidente del Congreso",
+        "El Delegado del Gobierno",
+        "El Secretario General del Pleno",
+        "El Concejal Presidente del Distrito"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "¿Qué naturaleza tienen los distritos dentro del Ayuntamiento de Madrid?",
+      "options": [
+        "Son divisiones territoriales para la gestión desconcentrada",
+        "Son municipios con personalidad jurídica propia",
+        "Son comunidades autónomas",
+        "Son órganos judiciales"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Quién nombra a la persona que ocupa la presidencia de un distrito?",
+      "options": [
+        "La Junta Electoral",
+        "El Alcalde",
+        "La Diputación Provincial",
+        "El Consejo de Estado"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Qué unidad desarrolla tareas de coordinación y gestión administrativa en un distrito?",
+      "options": [
+        "La Delegación del Gobierno",
+        "La Intervención General del Estado",
+        "La Coordinación del Distrito",
+        "La Secretaría de Estado"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿Qué principio organizativo permite acercar servicios municipales a los barrios mediante los distritos?",
+      "options": [
+        "Centralización estatal",
+        "Independencia territorial",
+        "Tutela judicial",
+        "Desconcentración"
+      ],
+      "correct": 3
+    }
+  ]
+}

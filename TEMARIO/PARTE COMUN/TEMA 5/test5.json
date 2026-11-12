@@ -1,0 +1,205 @@
+{
+  "title": "Parte Común - Tema V: Reglamento Orgánico del Gobierno y Administración del Ayuntamiento de Madrid",
+  "questions": [
+    {
+      "q": "¿Qué significan las siglas ROGAM en el ámbito municipal de Madrid?",
+      "options": [
+        "Reglamento Orgánico del Gobierno y de la Administración del Ayuntamiento de Madrid",
+        "Reglamento General de Organización Autonómica de Madrid",
+        "Registro Orgánico de Gestión Administrativa Municipal",
+        "Régimen Oficial de Gobierno de Áreas Metropolitanas"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué órgano colegiado municipal está presidido por el Alcalde y participa en la dirección política?",
+      "options": [
+        "La Junta de Gobierno",
+        "La Junta Electoral",
+        "El Consejo de Estado",
+        "La Diputación"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Quién nombra a los miembros de la Junta de Gobierno de Madrid?",
+      "options": [
+        "El Alcalde",
+        "El Pleno por elección directa",
+        "Los vecinos",
+        "El Secretario General"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué órgano municipal aprueba la estructura de la Administración ejecutiva en los términos establecidos por las normas?",
+      "options": [
+        "La Junta de Gobierno",
+        "El Tribunal de Cuentas",
+        "La Junta Electoral",
+        "El Senado"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué función suele corresponder a las Áreas de Gobierno?",
+      "options": [
+        "Agrupar y dirigir servicios municipales de materias relacionadas",
+        "Ejercer jurisdicción penal",
+        "Aprobar leyes estatales",
+        "Sustituir a los distritos como municipios"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué titular dirige un Área de Gobierno por delegación del Alcalde?",
+      "options": [
+        "El concejal titular del Área",
+        "El Delegado del Gobierno",
+        "El Secretario de Estado",
+        "El Presidente de la Diputación"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué órgano directivo presta apoyo y coordinación administrativa dentro de un Área?",
+      "options": [
+        "La Coordinación General o el órgano directivo que establezca la organización",
+        "La Junta Electoral Central",
+        "La Cámara de Cuentas",
+        "La Diputación"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué unidad suele prestar apoyo jurídico, técnico y administrativo a un Área de Gobierno?",
+      "options": [
+        "La Secretaría General Técnica",
+        "El Consejo de Estado",
+        "La Junta de Distrito",
+        "La Mesa electoral"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué significa delegar una competencia?",
+      "options": [
+        "Encomendar su ejercicio a otro órgano sin cambiar la titularidad, cuando la ley lo permite",
+        "Transferir siempre la titularidad de forma definitiva",
+        "Eliminar la competencia",
+        "Convertirla en una competencia estatal"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué órgano puede dictar instrucciones para ordenar la actividad de órganos dependientes dentro de su ámbito?",
+      "options": [
+        "El órgano superior competente",
+        "Cualquier empleado sin habilitación",
+        "El Tribunal Constitucional",
+        "La Junta Electoral"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Cuál es el objetivo de las normas orgánicas municipales?",
+      "options": [
+        "Ordenar los órganos y el funcionamiento del gobierno y la Administración local",
+        "Regular la organización de los ministerios",
+        "Sustituir la Constitución",
+        "Regular exclusivamente las elecciones generales"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué órgano municipal ejerce las funciones de fe pública y asesoramiento legal del Pleno conforme a la normativa?",
+      "options": [
+        "La Secretaría General del Pleno",
+        "La Intervención General",
+        "La Alcaldía de distrito",
+        "La Junta de Gobierno"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Quién determina el número, la denominación y las competencias de las Áreas de Gobierno de Madrid?",
+      "options": [
+        "El Alcalde",
+        "El Pleno de la Asamblea de Madrid",
+        "La Delegación del Gobierno",
+        "El Tribunal Económico-Administrativo"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué representan las Áreas de Gobierno en la organización municipal de Madrid?",
+      "options": [
+        "Unidades territoriales independientes",
+        "Los niveles esenciales de organización de la Administración municipal",
+        "Órganos judiciales",
+        "Entidades locales con autonomía propia"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Qué cargo dirige políticamente un Área de Gobierno cuando así se establece en la organización municipal?",
+      "options": [
+        "El Secretario General del Estado",
+        "El Interventor General",
+        "El concejal titular del Área",
+        "El Presidente de la Comunidad Autónoma"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿Qué órgano presta apoyo técnico y administrativo a un Área de Gobierno?",
+      "options": [
+        "La Junta Electoral",
+        "La Diputación Provincial",
+        "El Consejo de Estado",
+        "La Secretaría General Técnica"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "¿Cuál de estas unidades puede formar parte de la estructura de un Área de Gobierno?",
+      "options": [
+        "Una Dirección General",
+        "Una provincia",
+        "Una comunidad autónoma",
+        "Un tribunal superior"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué objetivo cumple una estructura por Áreas de Gobierno?",
+      "options": [
+        "Sustituir al Pleno",
+        "Agrupar y dirigir materias de la gestión municipal",
+        "Transferir competencias judiciales",
+        "Crear nuevos municipios"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Qué norma orgánica regula la organización del Gobierno y la Administración del Ayuntamiento de Madrid?",
+      "options": [
+        "La Ley de Enjuiciamiento Civil",
+        "El Estatuto de los Trabajadores",
+        "El ROGAM",
+        "La Ley Orgánica del Poder Judicial"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿Qué órgano puede coordinar unidades administrativas dentro de la estructura de un Área?",
+      "options": [
+        "El Tribunal de Cuentas",
+        "La Junta Electoral Central",
+        "La Delegación provincial",
+        "El órgano directivo que establezca la organización municipal"
+      ],
+      "correct": 3
+    }
+  ]
+}

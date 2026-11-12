@@ -1,0 +1,205 @@
+{
+  "title": "Parte Común - Tema VII: Estatuto Básico del Empleado Público",
+  "questions": [
+    {
+      "q": "¿Qué norma contiene el texto refundido del Estatuto Básico del Empleado Público?",
+      "options": [
+        "Real Decreto Legislativo 5/2015",
+        "Ley 39/2015",
+        "Ley 40/2015",
+        "Real Decreto Legislativo 2/2004"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Cuál de los siguientes es una clase de empleado público según el EBEP?",
+      "options": [
+        "Funcionario de carrera",
+        "Notario municipal",
+        "Diputado provincial obligatorio",
+        "Juez de distrito"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué principios deben regir el acceso al empleo público?",
+      "options": [
+        "Igualdad, mérito y capacidad",
+        "Antigüedad familiar y residencia",
+        "Sorteo obligatorio en todos los casos",
+        "Libre designación para toda plaza"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué tipo de empleado público presta servicios mediante contrato de trabajo?",
+      "options": [
+        "Personal laboral",
+        "Funcionario de carrera",
+        "Personal eventual exclusivamente",
+        "Autoridad independiente"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué caracteriza al personal eventual?",
+      "options": [
+        "Realiza funciones expresamente calificadas como de confianza o asesoramiento especial",
+        "Ocupa permanentemente cualquier plaza funcionarial",
+        "Es elegido por sufragio",
+        "Ejerce potestad jurisdiccional"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué deber general exige actuar con diligencia y perseguir los intereses generales?",
+      "options": [
+        "Conducta profesional y servicio objetivo a la ciudadanía",
+        "Obediencia a cualquier orden ilegal",
+        "Preferencia por intereses particulares",
+        "Inactividad administrativa"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué derecho individual reconoce el EBEP en relación con la carrera profesional?",
+      "options": [
+        "Progresión profesional conforme a los principios y procedimientos establecidos",
+        "Ascenso automático anual",
+        "Inamovilidad para todo el personal",
+        "Elección directa del superior"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué sistema de selección puede utilizarse para el acceso a la función pública?",
+      "options": [
+        "Oposición o concurso-oposición, con carácter general",
+        "Nombramiento familiar",
+        "Designación ciudadana informal",
+        "Adjudicación por orden de solicitud"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué órgano o instrumento establece las necesidades de recursos humanos de una Administración?",
+      "options": [
+        "La oferta de empleo público, cuando proceda",
+        "El padrón municipal",
+        "El registro civil",
+        "El inventario de bienes exclusivamente"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué principio debe guiar la evaluación del desempeño según el EBEP?",
+      "options": [
+        "Objetividad, transparencia e imparcialidad",
+        "Secreto sin criterios previos",
+        "Preferencia personal del evaluador",
+        "Rotación aleatoria"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Cuál es una situación administrativa del personal funcionario?",
+      "options": [
+        "Servicio activo",
+        "Sufragio pasivo",
+        "Concejalía automática",
+        "Excedencia electoral obligatoria"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "El régimen disciplinario del personal empleado público debe respetar:",
+      "options": [
+        "Los principios de legalidad y tipicidad",
+        "La sanción sin procedimiento",
+        "La responsabilidad objetiva en todo caso",
+        "La inexistencia de prescripción"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Qué norma contiene el texto refundido vigente del Estatuto Básico del Empleado Público?",
+      "options": [
+        "Real Decreto Legislativo 5/2015",
+        "Ley 39/2015",
+        "Ley 40/2015",
+        "Real Decreto Legislativo 2/2004"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Cuál de estas categorías está expresamente incluida entre las clases de empleados públicos?",
+      "options": [
+        "Personal judicial",
+        "Personal funcionario interino",
+        "Personal legislativo",
+        "Personal electoral"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Qué principios deben respetarse en el acceso al empleo público?",
+      "options": [
+        "Antigüedad familiar y residencia",
+        "Sorteo y designación directa",
+        "Igualdad, mérito y capacidad",
+        "Libre nombramiento en todas las plazas"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿Qué tipo de relación mantiene el personal laboral con la Administración?",
+      "options": [
+        "Una relación de representación política",
+        "Una relación jurisdiccional",
+        "Una relación de voluntariado",
+        "Una relación contractual de trabajo"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "¿Para qué se nombra al personal eventual?",
+      "options": [
+        "Para desempeñar funciones de confianza o asesoramiento especial",
+        "Para ocupar permanentemente cualquier plaza funcionarial",
+        "Para ejercer cargos representativos elegidos por sufragio",
+        "Para asumir funciones jurisdiccionales"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "¿Cuál de estos principios guía la conducta de los empleados públicos?",
+      "options": [
+        "Preferencia por intereses privados",
+        "Imparcialidad en el ejercicio de sus funciones",
+        "Obediencia a cualquier orden, aunque sea ilegal",
+        "Secreto de toda actuación pública"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "¿Qué debe hacerse, como regla general, para adquirir la condición de funcionario de carrera tras superar el proceso selectivo?",
+      "options": [
+        "Ser elegido por los ciudadanos",
+        "Firmar un contrato laboral temporal",
+        "Recibir nombramiento y cumplir los requisitos establecidos",
+        "Obtener autorización judicial"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "¿Cuál es uno de los instrumentos de ordenación de la actividad profesional del personal funcionario?",
+      "options": [
+        "El padrón municipal",
+        "El registro civil",
+        "La ley electoral",
+        "La relación de puestos de trabajo"
+      ],
+      "correct": 3
+    }
+  ]
+}
